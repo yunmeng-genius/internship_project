@@ -1,0 +1,76 @@
+{
+    "active": "local",
+    "clueId": 123456,
+    "tagGroup": [
+        {
+            "groupId": 123,
+            "tagList": [
+                {
+                    "tagId": 1,
+                    "tagName": "1节课"
+                },
+                {
+                    "tagId": 2,
+                    "tagName": "2节课"
+                },
+                {
+                    "tagId": 3,
+                    "tagName": "3节课"
+                },
+                {
+                    "tagId": 4,
+                    "tagName": "4节课"
+                },
+                {
+                    "tagId": 5,
+                    "tagName": "5节课"
+                }
+            ],
+            "hitWord": [
+                {
+                    "role": "销售",
+                    "word": "今天有个5节,哦不是，是9节，的编程特惠课给到孩子"
+                },
+                {
+                    "role": "销售",
+                    "word": "明天有个4节的编程特惠课给到孩子"
+                }
+            ]
+        },
+        {
+            "groupId": 123,
+            "tagList": [
+                {
+                    "tagId": 1,
+                    "tagName": "1节课"
+                },
+                {
+                    "tagId": 2,
+                    "tagName": "2节课"
+                },
+                {
+                    "tagId": 3,
+                    "tagName": "3节课"
+                },
+                {
+                    "tagId": 4,
+                    "tagName": "4节课"
+                },
+                {
+                    "tagId": 5,
+                    "tagName": "5节课"
+                }
+            ],
+            "hitWord": [
+                {
+                    "role": "销售",
+                    "word": "今天有个5节,哦不是，是9节，的编程特惠课给到孩子"
+                },
+                {
+                    "role": "销售",
+                    "word": "明天有个4节的编程特惠课给到孩子"
+                }
+            ]
+        }
+    ]
+}
